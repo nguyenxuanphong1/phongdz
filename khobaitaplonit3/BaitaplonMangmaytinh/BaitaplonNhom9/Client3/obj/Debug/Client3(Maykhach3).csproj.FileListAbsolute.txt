@@ -1,0 +1,8 @@
+F:\desktop\BaitaplonMangmaytinh\BaitaplonNhom9\Client3\bin\Debug\Client3.exe.config
+F:\desktop\BaitaplonMangmaytinh\BaitaplonNhom9\Client3\bin\Debug\Client3.exe
+F:\desktop\BaitaplonMangmaytinh\BaitaplonNhom9\Client3\bin\Debug\Client3.pdb
+F:\desktop\BaitaplonMangmaytinh\BaitaplonNhom9\Client3\obj\Debug\Client3(Maykhach3).csproj.AssemblyReference.cache
+F:\desktop\BaitaplonMangmaytinh\BaitaplonNhom9\Client3\obj\Debug\Client3(Maykhach3).csproj.SuggestedBindingRedirects.cache
+F:\desktop\BaitaplonMangmaytinh\BaitaplonNhom9\Client3\obj\Debug\Client3(Maykhach3).csproj.CoreCompileInputs.cache
+F:\desktop\BaitaplonMangmaytinh\BaitaplonNhom9\Client3\obj\Debug\Client3.exe
+F:\desktop\BaitaplonMangmaytinh\BaitaplonNhom9\Client3\obj\Debug\Client3.pdb

@@ -1,0 +1,32 @@
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.AssemblyReference.cache
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Cap_pass.resources
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_ChiTietTuyen.resources
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Login.resources
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Phan_Quyen.resources
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_16_Cho.resources
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_25_Cho.resources
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_30_Cho.resources
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_45_Cho.resources
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_7_Cho.resources
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Infomation.resources
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Resources.resources
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Main.resources
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Login.vi-VN.resources
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.GenerateResource.cache
+D:\150 Do An C Sharp_[Huynhmaiit.net]\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.CoreCompileInputs.cache
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.AssemblyReference.cache
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Cap_pass.resources
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_ChiTietTuyen.resources
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Login.resources
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Phan_Quyen.resources
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_16_Cho.resources
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_25_Cho.resources
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_30_Cho.resources
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_45_Cho.resources
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_7_Cho.resources
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Infomation.resources
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Resources.resources
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Main.resources
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Login.vi-VN.resources
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.GenerateResource.cache
+F:\desktop\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Server(Maychu)\bin\Debug\Server(Maychu).exe.config
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Server(Maychu)\bin\Debug\Server(Maychu).exe
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Server(Maychu)\bin\Debug\Server(Maychu).pdb
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Server(Maychu)\obj\Debug\Server(Maychu).csproj.AssemblyReference.cache
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Server(Maychu)\obj\Debug\Server(Maychu).csproj.SuggestedBindingRedirects.cache
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Server(Maychu)\obj\Debug\Server(Maychu).csproj.CoreCompileInputs.cache
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Server(Maychu)\obj\Debug\Server(Maychu).exe
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Server(Maychu)\obj\Debug\Server(Maychu).pdb
+F:\desktop\BaitaplonMangmaytinh\Server(Maychu)\bin\Debug\Server(Maychu).exe.config
+F:\desktop\BaitaplonMangmaytinh\Server(Maychu)\bin\Debug\Server(Maychu).exe
+F:\desktop\BaitaplonMangmaytinh\Server(Maychu)\obj\Debug\Server(Maychu).csproj.AssemblyReference.cache
+F:\desktop\BaitaplonMangmaytinh\Server(Maychu)\obj\Debug\Server(Maychu).csproj.SuggestedBindingRedirects.cache
+F:\desktop\BaitaplonMangmaytinh\Server(Maychu)\obj\Debug\Server(Maychu).csproj.CoreCompileInputs.cache
+F:\desktop\BaitaplonMangmaytinh\Server(Maychu)\obj\Debug\Server(Maychu).exe
+F:\desktop\BaitaplonMangmaytinh\Server(Maychu)\obj\Debug\Server(Maychu).pdb
+F:\desktop\BaitaplonMangmaytinh\Server(Maychu)\bin\Debug\Server(Maychu).pdb

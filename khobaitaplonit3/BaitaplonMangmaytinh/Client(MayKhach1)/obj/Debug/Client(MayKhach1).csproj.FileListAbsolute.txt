@@ -1,0 +1,16 @@
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Client(MayKhach1)\bin\Debug\Client(MayKhach1).exe.config
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Client(MayKhach1)\bin\Debug\Client(MayKhach1).exe
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Client(MayKhach1)\bin\Debug\Client(MayKhach1).pdb
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Client(MayKhach1)\obj\Debug\Client(MayKhach1).csproj.AssemblyReference.cache
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Client(MayKhach1)\obj\Debug\Client(MayKhach1).csproj.SuggestedBindingRedirects.cache
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Client(MayKhach1)\obj\Debug\Client(MayKhach1).csproj.CoreCompileInputs.cache
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Client(MayKhach1)\obj\Debug\Client(MayKhach1).exe
+C:\Users\truon\OneDrive\Máy tính\BaitaplonMangmaytinh\Client(MayKhach1)\obj\Debug\Client(MayKhach1).pdb
+F:\desktop\BaitaplonMangmaytinh\Client(MayKhach1)\bin\Debug\Client(MayKhach1).exe.config
+F:\desktop\BaitaplonMangmaytinh\Client(MayKhach1)\bin\Debug\Client(MayKhach1).exe
+F:\desktop\BaitaplonMangmaytinh\Client(MayKhach1)\bin\Debug\Client(MayKhach1).pdb
+F:\desktop\BaitaplonMangmaytinh\Client(MayKhach1)\obj\Debug\Client(MayKhach1).csproj.AssemblyReference.cache
+F:\desktop\BaitaplonMangmaytinh\Client(MayKhach1)\obj\Debug\Client(MayKhach1).csproj.SuggestedBindingRedirects.cache
+F:\desktop\BaitaplonMangmaytinh\Client(MayKhach1)\obj\Debug\Client(MayKhach1).csproj.CoreCompileInputs.cache
+F:\desktop\BaitaplonMangmaytinh\Client(MayKhach1)\obj\Debug\Client(MayKhach1).exe
+F:\desktop\BaitaplonMangmaytinh\Client(MayKhach1)\obj\Debug\Client(MayKhach1).pdb
